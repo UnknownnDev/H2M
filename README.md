@@ -14,7 +14,7 @@ run h2m-mod.exe, change your name and join servers
 
 full game download
 
-ass simple as downloading the full h1 + h2m mod torrent and running the h2m-mod.exe after
+as simple as downloading the full h1 + h2m mod torrent and running the h2m-mod.exe after
 
 serverlist
 http://api.raidmax.org:5000/servers
